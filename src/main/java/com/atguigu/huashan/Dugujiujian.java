@@ -5,7 +5,7 @@ public class Dugujiujian {
     public static void main(String[] args) {
         System.out.println("dugu9999999999999jian");
         System.out.println("dugu9999999999999jian");
-        System.out.println("dugu9999999999999jian");
+        System.out.println("dugu9999999999999jian2342342342");
         System.out.println("dugu9999999999999jian");
         System.out.println("dugu9999999999999jian");
         System.out.println("dugu9999999999999jian");
